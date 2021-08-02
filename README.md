@@ -1,8 +1,6 @@
 ### Hi there 👋
-
-[![Ulisses' github stats](https://github-readme-stats.vercel.app/api?username=uroque&count_private=true&show_icons=true&theme=omni&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uroque&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+                           [![Ulisses' github stats](https://github-readme-stats.vercel.app/api?username=uroque&count_private=true&show_icons=true&theme=omni&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 - 📫 How to reach me: 
