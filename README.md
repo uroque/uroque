@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Ulisses' github stats](https://github-readme-stats.vercel.app/api?username=yroque&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Ulisses' github stats](https://github-readme-stats.vercel.app/api?username=uroque&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
