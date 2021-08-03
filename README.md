@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Ulisses 👋
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uroque&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ulisses' github stats](https://github-readme-stats.vercel.app/api?username=uroque&count_private=true&show_icons=true&theme=omni&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)  
@@ -23,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/uroque/count.svg" />
-</p>
+</p> -->
