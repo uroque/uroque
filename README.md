@@ -1,6 +1,6 @@
 ### Hi there, I'm Ulisses 👋
 
-<p align="left">
+<p align="center">
   <img height="152em"
        src="https://github-readme-stats.vercel.app/api?username=uroque&count_private=true&show_icons=true&theme=omni&hide_rank=false"
        alt="Ulisses Roque" 
