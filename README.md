@@ -1,7 +1,15 @@
 ### Hi there, I'm Ulisses 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uroque&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats) [![Ulisses' github stats](https://github-readme-stats.vercel.app/api?username=uroque&count_private=true&show_icons=true&theme=omni&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)  
-
+<p align="left">
+  <img height="152em"
+       src="https://github-readme-stats.vercel.app/api?username=uroque&count_private=true&show_icons=true&theme=omni&hide_rank=false"
+       alt="Ulisses Roque" 
+       style="background: rgb(0, 0, 0) transparent; background: rgba(0, 0, 0, 0.7);">
+  <img height="152em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=uroque&layout=compact&theme=omni" 
+       alt="Ulisses Roque"
+       style="background: rgb(0, 0, 0) transparent; background: rgba(0, 0, 0, 0.7);" />
+</p>
 
 - 📫 How to reach me: 
      - :office: [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/ulisses-roque/)
@@ -26,3 +34,5 @@ Here are some ideas to get you started:
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/uroque/count.svg" />
 </p> -->
+
+
