@@ -5,7 +5,7 @@
        src="https://github-readme-stats.vercel.app/api?username=uroque&count_private=true&show_icons=true&theme=omni&hide_rank=false"
        alt="Ulisses Roque" 
        style="background: rgb(0, 0, 0) transparent; background: rgba(0, 0, 0, 0.7);">
-  <img height="152em"
+  <img height="180em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=uroque&layout=compact&theme=omni" 
        alt="Ulisses Roque"
        style="background: rgb(0, 0, 0) transparent; background: rgba(0, 0, 0, 0.7);" />
