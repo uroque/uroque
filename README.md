@@ -15,7 +15,7 @@
      - :office: [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/ulisses-roque/)
 
 
-#### "Talk is cheap. Show me the code." 
+<h4>"Talk is cheap. Show me the code."</h4> 
 <p>                    Linus Torvalds.</p>
 
 <!--
