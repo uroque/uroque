@@ -15,6 +15,9 @@
      - :office: [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/ulisses-roque/)
 
 
+####"Talk is cheap. Show me the code." 
+                       ####Linus Torvalds.
+
 <!--
 **uroque/uroque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
