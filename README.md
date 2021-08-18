@@ -14,7 +14,7 @@
 - 📫 How to reach me: 
      - :office: [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/ulisses-roque/)
 
-<div style=""line-height: 1px">
+<div style=""line-height: 0">
 <h4>"Talk is cheap. Show me the code."</h4> 
 <p>                    Linus Torvalds.</p>
                                       </div>
