@@ -14,10 +14,9 @@
 - 📫 How to reach me: 
      - :office: [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/ulisses-roque/)
 
-<div style=""line-height: 0">
-<h4>"Talk is cheap. Show me the code."</h4> 
-<p>                    Linus Torvalds.</p>
-                                      </div>
+<h4>"Talk is cheap. Show me the code."</h4> <p>Linus Torvalds.</p>
+
+
 <!--
 **uroque/uroque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
