@@ -11,6 +11,12 @@
        style="background: rgb(0, 0, 0) transparent; background: rgba(0, 0, 0, 0.7);" />
 </p>
 
+<hr>
+
+I'm interested in Web Development and Machine Learning.
+
+
+
 - 📫 How to reach me: 
      - :office: [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/ulisses-roque/)
 <p>     
