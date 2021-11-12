@@ -25,7 +25,7 @@ I'm interested in Web Development and Machine Learning.
 
 - How to reach me: 
      - :office: [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/ulisses-roque/)
-     - 📫: [Mail me](mailto:ulissesroque@protonmail.com)
+     - 📫 [Mail me](mailto:ulissesroque@protonmail.com)
 <p>     
   <h4>"Talk is cheap. Show me the code."</h4> Linus Torvalds.
 </p>
