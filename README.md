@@ -2,6 +2,14 @@
 
 I'm interested in Web Development and Machine Learning.
 
+---
+<strong>:toolbox: Tools</strong>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="JavaScript logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="JavaScript logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="JavaScript logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px" /> 
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="JavaScript logo" width="50px" height="50px" /> -->
+
+---
+
 <p>
   <img height="160em"
        src="https://github-readme-stats.vercel.app/api?username=uroque&count_private=true&show_icons=true&theme=omni&hide_rank=false"
@@ -12,12 +20,6 @@ I'm interested in Web Development and Machine Learning.
        alt="Ulisses Roque"
        style="background: rgb(0, 0, 0) transparent; background: rgba(0, 0, 0, 0.7);" />
 </p>
-
----
-<strong>:toolbox: Tools</strong>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="JavaScript logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="JavaScript logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="JavaScript logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px" /> 
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="JavaScript logo" width="50px" height="50px" /> -->
 
 ---
 
