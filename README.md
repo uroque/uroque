@@ -36,14 +36,14 @@ I'm interested in Web Development and Machine Learning.
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px" /> 
 
-<strong> Front End </strong>
+<strong> Front End Frameworks & Libraries </strong>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" width="50px" height="50px" />
 
 
 <strong> Testing </strong>
 
-<img src="https://testing-library.com/img/octopus-128x128.png" alt="Testing Library logo" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest logo" width="50px" height="50px" /> <img src="https://testing-library.com/img/octopus-128x128.png" alt="Testing Library logo" width="50px" height="50px" />
 
 <!-- <strong> Machine Learning </strong> -->
 
