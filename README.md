@@ -14,7 +14,9 @@ I'm interested in Web Development and Machine Learning.
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" width="50px" height="50px" />
 
 
-<!-- <strong> Testing </strong> -->
+<strong> Testing </strong>
+
+<img src="https://testing-library.com/img/octopus-128x128.png" alt="Testing Library logo" width="50px" height="50px" />
 
 <!-- <strong> Machine Learning </strong> -->
 
