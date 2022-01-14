@@ -1,6 +1,8 @@
 ### Hi there, I'm Ulisses 👋
 
-I'm interested in Web Development and Machine Learning. Studying Web Development @Trybe
+I'm interested in Web Development and Machine Learning.
+
+Studying Web Development @Trybe.
 
 ---
 <strong>:toolbox: Tools</strong> <br />
