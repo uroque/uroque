@@ -5,33 +5,6 @@ I'm interested in Web Development and Machine Learning.
 ---
 <strong>:toolbox: Tools</strong> <br />
 
-<!-- <table>
-  <tr>
-    <th> <strong> Languages </strong> </th>
-    <th> <strong> Front End </strong> </th>
-    <th> <strong> Testing </strong> </th>
-    <th> <strong> Version Control </strong> </th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px" /> 
-    </td>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" width="50px" height="50px" />
-    </td>
-    <td>
-      <img src="https://testing-library.com/img/octopus-128x128.png" alt="Testing Library logo" width="50px" height="50px" />
-    </td> 
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git logo" width="50px" height="50px" />
-    </td>  
-  </tr>
-</table> -->
-
-
-
-
-
 <strong> Languages </strong>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px" /> 
