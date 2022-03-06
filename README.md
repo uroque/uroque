@@ -15,6 +15,11 @@ Studying Web Development @Trybe.
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="50px" height="50px" />
 
+
+<strong> Back End Frameworks & Libraries </strong>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS logo" width="50px" height="50px" />
+
 <strong> Database Management </strong>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL logo" width="50px" height="50px" />
