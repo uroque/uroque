@@ -13,8 +13,11 @@ Studying Web Development @Trybe.
 
 <strong> Front End Frameworks & Libraries </strong>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="React logo" width="50px" height="50px" />
 
+<strong> Database Management </strong>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML logo" width="50px" height="50px" />
 
 <strong> Testing </strong>
 
