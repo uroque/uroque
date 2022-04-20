@@ -25,7 +25,7 @@ Studying Web Development @Trybe.
 
 <strong> Testing </strong>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest logo" width="50px" height="50px" /> <img src="https://testing-library.com/img/octopus-128x128.png" alt="Testing Library logo" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest logo" width="50px" height="50px" /> <img src="https://testing-library.com/img/octopus-128x128.png" alt="Testing Library logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" alt="Jest logo" width="50px" height="50px" />
 
 <!-- <strong> Machine Learning </strong> -->
 
