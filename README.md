@@ -21,8 +21,7 @@ Studying Web Development @Trybe.
 
 <strong> Database Management </strong>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL logo" width="50px" height="50px" />
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MySQL logo" width="50px" height="50px" /> --!>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MySQL logo" width="50px" height="50px" />
 
 <strong> Testing </strong>
 
