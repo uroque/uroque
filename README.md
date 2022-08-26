@@ -1,6 +1,6 @@
 ### Hi there, I'm Ulisses 👋
 
-I'm Full Stack interested in Web Development, Machine Learning and Data Science.
+I'm a Full Stack Web Developer interested in Web Development, Machine Learning and Data Science.
 
 Studying Web Development @Trybe.
 
