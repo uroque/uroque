@@ -9,15 +9,15 @@ Studying Web Development @Trybe.
 
 <strong> Languages </strong>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="JavaScript logo" width="50px" height="50px" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML logo" width="50px" height="50px" alt="HTML 5"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50px" height="50px" alt="CSS 3" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px" alt="JavaScript" /> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="JavaScript logo" width="50px" height="50px" alt="TypeScript" /> 
 
 <strong> Front End Frameworks & Libraries </strong>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="50px" height="50px" alt="React.js"/>
 
 <strong> Back End Frameworks & Libraries </strong>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="Express logo" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS logo" width="50px" height="50px" alt="Node.js" /> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express logo" width="50px" height="50px" alt="Express.js" /> <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="Express logo" width="50px" height="50px" alt="Sequelize" />
 
 <strong> Database Management </strong>
 
