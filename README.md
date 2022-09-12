@@ -17,7 +17,7 @@ Studying Web Development @Trybe.
 
 <strong> Back End Frameworks & Libraries </strong>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express logo" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" alt="Express logo" width="50px" height="50px" />
 
 <strong> Database Management </strong>
 
