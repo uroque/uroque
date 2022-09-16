@@ -41,7 +41,7 @@ Studying Web Development @Trybe.
        alt="Ulisses Roque" 
        style="background: rgb(0, 0, 0) transparent; background: rgba(0, 0, 0, 0.7);">
   <img height="165em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=uroque&layout=compact&theme=omni" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=uroque&layout=compact&theme=omni"
        alt="Ulisses Roque"
        style="background: rgb(0, 0, 0) transparent; background: rgba(0, 0, 0, 0.7);" />
 </p>
