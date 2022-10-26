@@ -9,7 +9,7 @@ Studying Web Development @Trybe.
 
 <strong> Languages </strong>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML logo" width="50px" height="50px" title="HTML 5"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50px" height="50px" title="CSS 3"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px" title="JavaScript"/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="JavaScript logo" width="50px" height="50px" title="TypeScript"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML logo" width="50px" height="50px" title="HTML 5"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50px" height="50px" title="CSS 3"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px" title="JavaScript"/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="JavaScript logo" width="50px" height="50px" title="TypeScript"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50px" height="50px" title="Python"/> 
 
 <strong> Front End Frameworks & Libraries </strong>
 
@@ -25,7 +25,7 @@ Studying Web Development @Trybe.
 
 <strong> Testing </strong>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest logo" width="50px" height="50px" title="Jest" /> <img src="https://testing-library.com/img/octopus-128x128.png" alt="Testing Library logo" width="50px" height="50px" title="React Testing Library" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" alt="Mocha logo" title="Mocha" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest logo" width="50px" height="50px" title="Jest" /> <img src="https://testing-library.com/img/octopus-128x128.png" alt="Testing Library logo" width="50px" height="50px" title="React Testing Library" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" alt="Mocha logo" title="Mocha" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" alt="Pytest logo" title="Pytest" width="50px" height="50px" />
 
 <!-- <strong> Machine Learning </strong> -->
 
