@@ -34,14 +34,17 @@ Studying Web Development @Trybe.
 <tr>
 <td align="center">
   
-<strong> Database Management </strong>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL logo" width="50px" height="50px" title="MySQL" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB logo" width="50px" height="50px" title="MongoDB" />
-</td>
-<td align="center">
 <strong> Testing </strong>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest logo" width="50px" height="50px" title="Jest" /> <img src="https://testing-library.com/img/octopus-128x128.png" alt="Testing Library logo" width="50px" height="50px" title="React Testing Library" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" alt="Mocha logo" title="Mocha" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" alt="Pytest logo" title="Pytest" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest logo" width="50px" height="50px" title="Jest" /> <img src="https://testing-library.com/img/octopus-128x128.png" alt="Testing Library logo" width="50px" height="50px" title="React Testing Library" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" alt="Mocha logo" title="Mocha" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" alt="Pytest logo" title="Pytest" width="50px" height="50px" /> 
+  
+<td align="center">
+  
+  <strong> Database Management and Others </strong>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL logo" width="50px" height="50px" title="MySQL" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB logo" width="50px" height="50px" title="MongoDB" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker logo" title="Dockert" width="50px" height="50px" />
+</td>
+
 </td>
 </tr>
 </table>
