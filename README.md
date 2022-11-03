@@ -11,13 +11,9 @@ Studying Web Development @Trybe.
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML logo" width="50px" height="50px" title="HTML 5"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50px" height="50px" title="CSS 3"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px" title="JavaScript"/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="JavaScript logo" width="50px" height="50px" title="TypeScript"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50px" height="50px" title="Python"/> 
 
-<strong> Front End Frameworks & Libraries </strong>
+<strong> Frameworks & Libraries </strong>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS logo" width="50px" height="50px" title="ReactJS" />
-
-<strong> Back End Frameworks & Libraries </strong>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js logo" width="50px" height="50px" title="Node.js"/> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js logo" width="50px" height="50px" title="Express.js" /> <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="Sequelize logo" width="50px" height="50px" title="Sequelize" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS logo" width="50px" height="50px" title="ReactJS" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js logo" width="50px" height="50px" title="Node.js"/> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js logo" width="50px" height="50px" title="Express.js" /> <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="Sequelize logo" width="50px" height="50px" title="Sequelize" />
 
 <strong> Database Management </strong>
 
@@ -35,12 +31,12 @@ Studying Web Development @Trybe.
 
 ---
 
-<p>
-  <img height="165em"
+<p align="center">
+  <img 
+       height="165em" 
        src="https://github-readme-stats.vercel.app/api?username=uroque&count_private=true&show_icons=true&theme=omni&hide_rank=false"
        alt="Ulisses Roque" 
-       style="background: rgb(0, 0, 0) transparent; background: rgba(0, 0, 0, 0.7);">
-  <img height="165em"
+       style="background: rgb(0, 0, 0) transparent; background: rgba(0, 0, 0, 0.7);"> <img height="165em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=uroque&layout=compact&theme=omni"
        alt="Ulisses Roque"
        style="background: rgb(0, 0, 0) transparent; background: rgba(0, 0, 0, 0.7);" />
@@ -74,5 +70,3 @@ Here are some ideas to get you started:
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/uroque/count.svg" />
 </p> -->
-
-
