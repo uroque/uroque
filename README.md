@@ -25,7 +25,7 @@ Studying Web Development @Trybe.
 <small>
 <strong> Frameworks & Libraries </strong>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS logo" width="50px" height="50px" title="ReactJS" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js logo" width="50px" height="50px" title="Node.js"/> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js logo" width="50px" height="50px" title="Express.js" /> <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="Sequelize logo" width="50px" height="50px" title="Sequelize" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS logo" width="50px" height="50px" title="ReactJS" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js logo" width="50px" height="50px" title="Node.js"/> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js logo" width="50px" height="50px" title="Express.js" /> <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="Sequelize logo" width="50px" height="50px" title="Sequelize" /> <img src="[https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"](https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg) alt="Pandas logo" width="50px" height="50px" title="Pandas" />
 </small>
 </p>
 </th>
