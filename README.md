@@ -1,10 +1,11 @@
 ### Hi there, I'm Ulisses 👋
 
-I'm a Full Stack Web Developer interested in Web Development, Machine Learning and Data Science.
+I'm a Sofware Developer interested in solving problems in Web Development, Machine Learning, Data Science and Automated Tests.
 
-Studying Web Development @Trybe.
-
-
+<div align="center">
+  <img src="https://www.zucisystems.com/wp-content/uploads/2020/11/devops-testing.jpg" alt="Tests applied to the complete DevOps cycle" height="300px"  />
+</div>
+  
 ---
 
 <table align="center">
