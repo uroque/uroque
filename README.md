@@ -3,7 +3,7 @@
 I'm a Sofware Developer interested in solving problems in Web Development, Machine Learning, Data Science and Automated Tests.
 
 <div align="center">
-  <img src="https://www.zucisystems.com/wp-content/uploads/2020/11/devops-testing.jpg" alt="Tests applied to the complete DevOps cycle" height="300px"  />
+  <img src="https://www.zucisystems.com/wp-content/uploads/2020/11/devops-testing.jpg" alt="Tests applied to the complete DevOps cycle" height="200px"  />
 </div>
   
 ---
