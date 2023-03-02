@@ -25,7 +25,7 @@ Studying Web Development @Trybe.
 <small>
 <strong> Frameworks & Libraries </strong>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS logo" width="50px" height="50px" title="ReactJS" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js logo" width="50px" height="50px" title="Node.js"/> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js logo" width="50px" height="50px" title="Express.js" /> <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="Sequelize logo" width="50px" height="50px" title="Sequelize" /> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas logo" width="50px" height="50px" title="Pandas" /> <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium logo" width="50px" height="50px" title="Selenium" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS logo" width="50px" height="50px" title="ReactJS" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js logo" width="50px" height="50px" title="Node.js"/> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js logo" width="50px" height="50px" title="Express.js" /> <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="Sequelize logo" width="50px" height="50px" title="Sequelize" /> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas logo" width="50px" height="50px" title="Pandas" />
 </small>
 </p>
 </th>
@@ -36,7 +36,7 @@ Studying Web Development @Trybe.
   
 <strong> Testing </strong>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest logo" width="50px" height="50px" title="Jest" /> <img src="https://testing-library.com/img/octopus-128x128.png" alt="Testing Library logo" width="50px" height="50px" title="React Testing Library" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" alt="Mocha logo" title="Mocha" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" alt="Pytest logo" title="Pytest" width="50px" height="50px" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest logo" width="50px" height="50px" title="Jest" /> <img src="https://testing-library.com/img/octopus-128x128.png" alt="Testing Library logo" width="50px" height="50px" title="React Testing Library" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" alt="Mocha logo" title="Mocha" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" alt="Pytest logo" title="Pytest" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium logo" width="50px" height="50px" title="Selenium" /> 
   
 <td align="center">
   
