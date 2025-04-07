@@ -1,6 +1,6 @@
 ### Hi there, I'm Ulisses 👋
 
-I'm a Sofware Developer interested in solving problems in Web Development, Machine Learning and Data Science.
+I'm a Sofware Developer interested in solving problems in Machine Learning and Data Science.
 <!-- 
 <div align="center">
   <img src="https://www.zucisystems.com/wp-content/uploads/2020/11/devops-testing.jpg" alt="Tests applied to the complete DevOps cycle" height="200px"  />
@@ -16,7 +16,9 @@ I'm a Sofware Developer interested in solving problems in Web Development, Machi
           <small>
 <strong> Languages </strong>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML logo" width="50px" height="50px" title="HTML 5"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50px" height="50px" title="CSS 3"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px" title="JavaScript"/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="JavaScript logo" width="50px" height="50px" title="TypeScript"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50px" height="50px" title="Python"/> 
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML logo" width="50px" height="50px" title="HTML 5"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50px" height="50px" title="CSS 3"/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="JavaScript logo" width="50px" height="50px" title="TypeScript"/> --> 
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50px" height="50px" title="Python"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px" title="JavaScript"/>
 </small>
 </p>
 </th>
@@ -26,7 +28,8 @@ I'm a Sofware Developer interested in solving problems in Web Development, Machi
 <small>
 <strong> Frameworks & Libraries </strong>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS logo" width="50px" height="50px" title="ReactJS" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js logo" width="50px" height="50px" title="Node.js"/> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js logo" width="50px" height="50px" title="Express.js" /> <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="Sequelize logo" width="50px" height="50px" title="Sequelize" /> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas logo" width="50px" height="50px" title="Pandas" />
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS logo" width="50px" height="50px" title="ReactJS" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js logo" width="50px" height="50px" title="Node.js"/> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js logo" width="50px" height="50px" title="Express.js" /> <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="Sequelize logo" width="50px" height="50px" title="Sequelize" /> -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas logo" width="50px" height="50px" title="Pandas" /> <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" alt="Keras logo" width="50px" height="50px" title="Keras" />
 </small>
 </p>
 </th>
@@ -43,7 +46,7 @@ I'm a Sofware Developer interested in solving problems in Web Development, Machi
   
   <strong> Database Management and Others </strong>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL logo" width="50px" height="50px" title="MySQL" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB logo" width="50px" height="50px" title="MongoDB" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker logo" title="Dockert" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL logo" width="50px" height="50px" title="MySQL" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB logo" width="50px" height="50px" title="MongoDB" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker logo" title="Docker" width="50px" height="50px" />
 </td>
 
 </td>
