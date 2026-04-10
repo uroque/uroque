@@ -84,25 +84,11 @@ I'm a Sofware Developer interested in solving problems in Machine Learning and D
  -->
 ---
 
-<p align="center">
-  <img 
-       height="165em" 
-       src="https://github-readme-stats.vercel.app/api?username=uroque&count_private=true&show_icons=true&theme=omni&hide_rank=false"
-       alt="Ulisses Roque" 
-       style="background: rgb(0, 0, 0) transparent; background: rgba(0, 0, 0, 0.7);"> <img height="165em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=uroque&layout=compact&theme=omni"
-       alt="Ulisses Roque"
-       style="background: rgb(0, 0, 0) transparent; background: rgba(0, 0, 0, 0.7);" />
-</p>
-
 ---
 
 - How to reach me: 
      - :office: [LinkedIn](https://www.linkedin.com/in/ulisses-roque/)
      - 📫 [Mail me](mailto:ulissesroque@protonmail.com)
-<p>     
-  <h4>"Talk is cheap. Show me the code."</h4> Linus Torvalds.
-</p>
 
 
 <!--
