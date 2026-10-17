@@ -1,22 +1,16 @@
 ### Hi there, I'm Ulisses 👋
 
 I currently work as a SysAdmin and am interested in solving problems using machine learning and data science.
-<!-- 
-<div align="center">
-  <img src="https://www.zucisystems.com/wp-content/uploads/2020/11/devops-testing.jpg" alt="Tests applied to the complete DevOps cycle" height="200px"  />
-</div> -->
-  
+
 ---
 
-<table align="center">
+<!--- <table align="center">
   <tr>
     <th align="center">
       <img width="441" height="1px">
         <p> 
           <small>
 <strong> Languages </strong>
-
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML logo" width="50px" height="50px" title="HTML 5"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50px" height="50px" title="CSS 3"/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="JavaScript logo" width="50px" height="50px" title="TypeScript"/> --> 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50px" height="50px" title="Python"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px" title="JavaScript"/>
 </small>
@@ -28,7 +22,6 @@ I currently work as a SysAdmin and am interested in solving problems using machi
 <small>
 <strong> Frameworks & Libraries </strong>
 
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS logo" width="50px" height="50px" title="ReactJS" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js logo" width="50px" height="50px" title="Node.js"/> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js logo" width="50px" height="50px" title="Express.js" /> <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="Sequelize logo" width="50px" height="50px" title="Sequelize" /> -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas logo" width="50px" height="50px" title="Pandas" /> <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" alt="Keras logo" width="50px" height="50px" title="Keras" />
 </small>
 </p>
@@ -52,8 +45,7 @@ I currently work as a SysAdmin and am interested in solving problems using machi
 </td>
 </tr>
 </table>
-
-
+--->
 
 <!-- ---
 <strong>:toolbox: Tools</strong> <br />
