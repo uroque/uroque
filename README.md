@@ -1,6 +1,6 @@
 ### Hi there, I'm Ulisses 👋
 
-I currently work as a systems administrator (SysAdmin) and am interested in solving problems using machine learning and data science.
+I currently work as a SysAdmin and am interested in solving problems using machine learning and data science.
 <!-- 
 <div align="center">
   <img src="https://www.zucisystems.com/wp-content/uploads/2020/11/devops-testing.jpg" alt="Tests applied to the complete DevOps cycle" height="200px"  />
